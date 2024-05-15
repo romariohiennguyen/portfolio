@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting Data Structures & Algorithms in Python](https://github.com/romariohiennguyen/DataStructure)
 - <b>Intro to Java programming</b>
-  - [Data type](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b><i>(Potentially NSFW)</b></i>
+  - [Data type](https://github.com/romariohiennguyen/datatype)<b><i> (Potentially NSFW)</b></i>
   - Object Oriented
   - Array, Linklist, Hash
 - <b>Python</b>
